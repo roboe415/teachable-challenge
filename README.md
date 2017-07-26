@@ -1,5 +1,7 @@
 <b>Teachable Product Design Challenge Notes</b>
 
+<i>Please download the attached Sketch file to view the full user flow. </i>
+<img src="https://github.com/roboe415/teachable-challenge/blob/master/My%20Event%20-%20Filled%20Hover%20State.jpg?raw=true" width="100%">
 
 My first steps were to identify all of the design elements and containers, then ideate on how the current screen can be improved and redesigned.
 
